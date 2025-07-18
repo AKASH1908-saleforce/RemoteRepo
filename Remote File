@@ -1,7 +1,1 @@
-This file is from Feature Branch Now it change from vs code
-AccountTriggerHandler
-ContactTriggerHandler
-OpportunityTriggerHandler
-AccountTriggerHandler
-ContactTriggerHandler
-OpportunityTriggerHandler
+set<Id> accIds = new set<Id>();
