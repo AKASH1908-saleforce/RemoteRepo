@@ -1,1 +1,1 @@
-set<Id> accIds = new set<Id>();
+List<Id> accIds = new List<accIds>()
